@@ -91,7 +91,7 @@ P{
 #hk div{
     background: rgba(0, 0, 0, 0.8);
 }
-#hk div:hover, #mgs:current{
+#hk div:hover, #hk:current{
     display: none;
 }
 #hk a{
@@ -118,7 +118,7 @@ P{
 #val div{
     background: rgba(0, 0, 0, 0.8);
 }
-#val div:hover, #mgs:current{
+#val div:hover, #val:current{
     display: none;
 }
 #val a{
