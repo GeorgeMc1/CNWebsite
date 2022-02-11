@@ -1,0 +1,28 @@
+.container-row{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.container-column{
+	display: flex;
+	flex-direction: column;
+}
+.start{
+	justify-content: flex-start;
+}
+.end{
+	justify-content: end;
+}
+.even{
+	justify-content: space-evenly;
+}
+.box{
+	padding: 0.5rem;
+	text-align: center;
+}
+.three{
+	width: calc(33.3333% - 1rem);
+}
+.four{
+	width: calc(25% - 1rem);
+}
